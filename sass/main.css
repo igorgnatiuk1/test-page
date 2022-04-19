@@ -518,7 +518,7 @@ time {
 
 .top-news__article {
   background-color: darkgray;
-  background-image: url("../.././images/top-news/5/x1.jpg");
+  background-image: url("../images/top-news/5/x1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
@@ -527,13 +527,13 @@ time {
 
 @media screen and (min-device-pixel-ratio: 2), screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-resolution: 192dpi), screen and (min-resolution: 2dppx) {
   .top-news__article {
-    background-image: url("../.././images/top-news/5/x2.jpg");
+    background-image: url("../images/top-news/5/x2.jpg");
   }
 }
 
 @media screen and (min-device-pixel-ratio: 3), screen and (-webkit-min-device-pixel-ratio: 3), screen and (min-resolution: 288dpi), screen and (min-resolution: 3dppx) {
   .top-news__article {
-    background-image: url("../.././images/top-news/5/x3.jpg");
+    background-image: url("../images/top-news/5/x3.jpg");
   }
 }
 
@@ -585,38 +585,38 @@ time {
 }
 
 .top-news__lady {
-  background-image: url("./../../images/top-news/1/x1.jpg");
+  background-image: url("../images/top-news/1/x1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 @media screen and (min-device-pixel-ratio: 2), screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-resolution: 192dpi), screen and (min-resolution: 2dppx) {
   .top-news__lady {
-    background-image: url("./../../images/top-news/1/x2.jpg");
+    background-image: url("../images/top-news/1/x2.jpg");
   }
 }
 
 @media screen and (min-device-pixel-ratio: 3), screen and (-webkit-min-device-pixel-ratio: 3), screen and (min-resolution: 288dpi), screen and (min-resolution: 3dppx) {
   .top-news__lady {
-    background-image: url("./../../images/top-news/1/x3.jpg");
+    background-image: url("../images/top-news/1/x3.jpg");
   }
 }
 
 .top-news__explosion {
-  background-image: url("./images/top-news/2/x1.jpg");
+  background-image: url("../images/top-news/2/x1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 @media screen and (min-device-pixel-ratio: 2), screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-resolution: 192dpi), screen and (min-resolution: 2dppx) {
   .top-news__explosion {
-    background-image: url("./images/top-news/2/x2.jpg");
+    background-image: url("../images/top-news/2/x2.jpg");
   }
 }
 
 @media screen and (min-device-pixel-ratio: 3), screen and (-webkit-min-device-pixel-ratio: 3), screen and (min-resolution: 288dpi), screen and (min-resolution: 3dppx) {
   .top-news__explosion {
-    background-image: url("./images/top-news/2/x3.jpg");
+    background-image: url("../images/top-news/2/x3.jpg");
   }
 }
 
@@ -639,20 +639,20 @@ time {
 }
 
 .top-news__transformation {
-  background-image: url("../../../images/top-news/4/x1.jpg");
+  background-image: url("../images/top-news/4/x1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 @media screen and (min-device-pixel-ratio: 2), screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-resolution: 192dpi), screen and (min-resolution: 2dppx) {
   .top-news__transformation {
-    background-image: url("../../../images/top-news/4/x2.jpg");
+    background-image: url("../images/top-news/4/x2.jpg");
   }
 }
 
 @media screen and (min-device-pixel-ratio: 3), screen and (-webkit-min-device-pixel-ratio: 3), screen and (min-resolution: 288dpi), screen and (min-resolution: 3dppx) {
   .top-news__transformation {
-    background-image: url("../../../images/top-news/4/x3.jpg");
+    background-image: url("../images/top-news/4/x3.jpg");
   }
 }
 
